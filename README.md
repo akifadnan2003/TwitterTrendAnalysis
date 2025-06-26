@@ -45,12 +45,11 @@ cd ..
 
 ### **4\. IMPORTANT: Place the Dataset**
 
-The dataset used for training is **cutted.csv**. This file is not included in the repository due to its size, which is standard practice for data science projects.
+Dataset Name: US Congressional Tweets Dataset
 
-**Instructions:**
+Download Link: https://www.kaggle.com/datasets/oscaryezfeijo/us-congressional-tweets-dataset
 
-1. Obtain the cutted.csv file that was used during the project's development.  
-2. Place this file directly inside the **root directory** of the project (the same folder that contains the api and frontend folders).
+Instructions: After downloading, place the tweets.json and users.json files into the data/raw/ directory inside the project
 
 **Note:** The src/modeling/train.py script is configured to read this specific file from the root directory. It will then use the original text and Reach columns, but it will generate **synthetic 'Likes' data** to solve the "zero-like" problem in the original dataset, ensuring the model provides dynamic predictions for the demo.
 
