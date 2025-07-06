@@ -4,9 +4,6 @@ This is a full-stack data science project that predicts the potential engagement
 
 The application is served through a modern web interface where a user can input their tweet text and follower count to receive instant feedback.
 
-### **Live Demo Screenshot**
-
-*(It is highly recommended to add a screenshot of your running web application here)*
 
 ## **Technology Stack**
 
