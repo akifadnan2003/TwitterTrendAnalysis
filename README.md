@@ -83,3 +83,11 @@ npm start
 This will automatically open a new tab in your web browser at http://localhost:3000.
 
 You can now use the application\!
+
+---
+
+## **License & Usage**
+
+This project is released under the GPL-3.0 License. See the `LICENSE` file for more details.
+
+This is an academic project developed for a final year submission at Bursa Technical University. It is intended for educational and demonstrational purposes. While the code is public for portfolio and review purposes, direct commercial use or redistribution without acknowledgment is discouraged.
